@@ -1,0 +1,189 @@
+#top{
+    padding: 0 10px;
+    background-color: lightgray ;
+}
+#logo{
+    font-size: 40px;
+    color: blue;
+}
+#para{
+    margin-right: 30px;
+    font-style: italic;
+    font-size: 20px;
+    padding: 30px;
+    margin-top: -30px;
+}
+span{
+    padding-left: 30px;
+} 
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+    cursor: pointer;
+}
+#container{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    
+}
+img{
+    width: 100%;
+}
+#para1{
+    color: rgba(0,0,0,0.5);
+}
+#card1{
+    padding: 0 10px;
+}
+#pic{
+    border-radius: 10px;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+#container1{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    
+}
+img{
+    width: 100%;
+}
+#para2{
+    color: rgba(0,0,0,0.5);
+}
+#card2{
+    padding: 0 10px;
+}
+#pic1{
+    border-radius: 10px;
+}
+#step2{
+    display: flex;
+}
+.cards{
+    display: flex
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+#container2{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    
+}
+img{
+    width: 100%;
+}
+#para3{
+    color: rgba(0,0,0,0.5);
+}
+#card3{
+    padding: 0 10px;
+}
+#pic2{
+    border-radius: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+#container3{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    
+}
+img{
+    width: 100%;
+}
+#para4{
+    color: rgba(0,0,0,0.5);
+}
+#card4{
+    padding: 0 10px;
+}
+#pic3{
+    border-radius: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+#container4{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    
+}
+img{
+    width: 100%;
+}
+#para5{
+    color: rgba(0,0,0,0.5);
+}
+#card5{
+    padding: 0 10px;
+}
+#pic4{
+    border-radius: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+#container5{
+    width: 20%;
+    border: 1px solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+}
+#para6{
+    color: rgba(0,0,0,0.5);
+}
+#card6{
+    padding: 0 10px;
+}
+#pic5{
+    border-radius: 10px;
+}
+.firstrow{
+    margin-left: 60px;
+}
+footer{
+    background-color: #172146;
+    padding: 20px;
+    margin-top: 20px;
+}
+.page{
+    padding-left: 150px;
+}
+#items{
+  padding-bottom: 10px;
+  padding-left: 100px;
+}
+
+#list1{
+   padding: 6px 14px;
+   width: auto;
+   background-color:lightslategray;
+   border-radius: 15px;
+   border: 1px solid black;
+   margin: 5px;
+}
